@@ -1,5 +1,11 @@
 # Comandos para imágenes
 
+### Descargar imagen
+
+```
+
+```
+
 ### Listar imágenes
 
 ```
@@ -18,11 +24,6 @@
 
 ```
 
-### Descargar imagen
-
-```
-
-```
 
 ### Para eliminar una imagen
 

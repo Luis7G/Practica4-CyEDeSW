@@ -1,12 +1,13 @@
 # Comandos para imágenes
 
-### Descargar imagen
-
-```
-
-```
-
 ### Listar imágenes
+
+```
+
+```
+
+
+### Descargar imagen
 
 ```
 

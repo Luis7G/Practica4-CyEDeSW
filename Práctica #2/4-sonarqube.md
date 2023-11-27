@@ -1,7 +1,0 @@
-# Sonarqube
-
-### Contenedor
-
-```
-
-```
